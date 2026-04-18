@@ -1,10 +1,9 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient&theme=dracula"  />
-</div>
+
 
 ###
+<h1 align="center">Oii!! eu sou a Maria de Fatima✨</h1>
+## 
 
-## Oii!! eu sou a Maria de Fatima✨
 <div>
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Mafa-xp&show_icons=true&theme=dracula"/>
   <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafa-xp&layout=compact&langs_count=16&theme=dracula">
