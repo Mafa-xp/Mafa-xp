@@ -4,7 +4,7 @@
 
 
 ###
-<h1 align="center">Oii!! eu sou a Maria de Fatima✨🌸</h1> 
+<h1 align="center">Hello, my name is Maria de Fatima✨🌸</h1> 
 
 <div align="center">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Mafa-xp&show_icons=true&theme=dracula"/>
