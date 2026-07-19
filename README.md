@@ -3,17 +3,16 @@
 </div>
 
 
-###
 <h1 align="center">Hello, my name is Maria de Fatima✨🌸</h1> 
 
 <div align="center">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Mafa-xp&show_icons=true&theme=dracula"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafa-xp&layout=compact&langs_count=16&theme=dracula">
-</div> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mafa-xp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafa-xp&layout=compact&langs_count=8&theme=dracula" />
+</div>
+
 
  
- 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
